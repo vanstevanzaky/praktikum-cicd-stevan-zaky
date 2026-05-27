@@ -1,0 +1,5 @@
+node_modules/
+*.pdf
+*.png
+*.log
+jobsheet_content.txt
